@@ -20,6 +20,6 @@ I’m currently seeking roles in **Fullstack Development** or **Backend Engineer
 
 ## 📬 Let's Connect!  
 - **Email:** [mohamedkaddi0210@gmail.com](mailto:mohamedkaddi0210@gmail.com)  
-- **LinkedIn:** [Your LinkedIn Profile](#)  
+- **LinkedIn:** [Kaddi Mohamed](https://www.linkedin.com/in/mohamedkaddi/)  
 
 🚀 *"Building software that makes a difference, one line of code at a time."*
